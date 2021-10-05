@@ -67,7 +67,7 @@ INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
 (3, 'Jerry', 'jerry@gmail.com', 40691),
 (4, 'Bob', 'bobthebuilder@gmail.com', 48590),
 (5, 'Nibbles', 'nibblesmouse@gmail.com', 40050),
-(6, 'Scooby', 'Scoobydoo@gmail.com', 30555),
+(6, 'Scooby', 'scoobydoo@gmail.com', 30555),
 (7, 'Daphne', 'daphne@gmail.com', 49877),
 (8, 'Noddy', 'makewayfornoddy@gmail.com', 36825),
 (9, 'Ben Tennyson', 'ben10@gmail.com', 30000),
