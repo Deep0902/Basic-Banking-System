@@ -4,6 +4,9 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 	<style type="text/css">
 		
 #main{
@@ -11,7 +14,7 @@
 	position: relative;
 	top: 450px;
 	left:50%;
-	transform: translate(-50%,-50%);
+	transform: translate(-50%,-60%);
 	width:600px;
 	padding: 30px;
 	box-sizing: border-box;
@@ -119,7 +122,12 @@ display:inline-block;
  .nv ul li a:hover{
  	color: white;
  	background-color: #9dc5c3;
-    background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
+    background-image: linear-gradient(315deg, #595959 0%, #6e6e6e 74%);
+		}
+		.nv ul li a{
+			position: fixed;
+  left: 690px;
+  top : 50px;
 		}
 
 	
@@ -142,6 +150,10 @@ display:inline-block;
   color: white;
   font-size: 15px;
   border-radius:150px;
+}
+li:hover{
+	transition: all 0.3s ease;
+	
 }
 
 /* Style the social media icons with color, if you want */
@@ -175,9 +187,7 @@ display:inline-block;
 }
 		}
 .test{
-	position: fixed;
-
-	top: 200px;
+	
 }
 	</style>
 	<title>About Me</title>
@@ -185,15 +195,15 @@ display:inline-block;
  
 </head>
 <body>
-	<div class="test">
+	
 		<div  class="nv">
 		<ul >
-				<li class="active"><a  href="index.php" >Home</a></li> </ul></div>
+				<li style="font-family: 'Montserrat', sans-serif;" class="active"><a  href="index.php" >Home</a></li> </ul></div>
 	
 			<div id="main">
 			
 				<h2 style="position:relative; left: 135px;  text-shadow: 3px 2px 5px pink; font-family: 'Montserrat', sans-serif;">Mr. Deep Rakesh Tank</h2>
-				<centre><img style="width:130px; height: 130px; border-radius:20px;border: 3px solid white ;position:relative; left:180px;box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
+				<centre><img style="width:200px; height: 200px; border-radius:20px;border: 3px solid white ;position:relative; left:170px;box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
 				0 32px 64px -48px rgba(0,0,0,0.5); " src="img/profile.jpg"></centre>
 
 			    <p style= "position: relative; left:20px;" >
@@ -214,7 +224,7 @@ display:inline-block;
   <a href="https://www.instagram.com/deep_rakesh" class="instagram" target="_blank"><i class="fa fa-instagram"></i></a>
   <a href="https://www.linkedin.com/in/deeprakesh/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
 </div>
-	</div>
+	
 
 
 </body>

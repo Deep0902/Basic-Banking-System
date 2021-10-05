@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
     <style>
          body{
-        background: #ababab;
+        background: #343434;
       }
     </style>
 </head>
@@ -49,11 +49,11 @@
         ?>
 
             <tr>
-            <td class="py-2"><?php echo $rows['sno']; ?></td>
-            <td class="py-2"><?php echo $rows['sender']; ?></td>
-            <td class="py-2"><?php echo $rows['receiver']; ?></td>
-            <td class="py-2"><?php echo $rows['balance']; ?> </td>
-            <td class="py-2"><?php echo $rows['datetime']; ?> </td>
+            <td style="color: #f5f5f5" class="py-2"><?php echo $rows['sno']; ?></td>
+            <td style="color: #f5f5f5" class="py-2"><?php echo $rows['sender']; ?></td>
+            <td style="color: #f5f5f5" class="py-2"><?php echo $rows['receiver']; ?></td>
+            <td style="color: #f5f5f5" class="py-2"><?php echo $rows['balance']; ?> </td>
+            <td style="color: #f5f5f5" class="py-2"><?php echo $rows['datetime']; ?> </td>
                 
         <?php
             }

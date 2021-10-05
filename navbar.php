@@ -8,6 +8,7 @@
         <style type="text/css">
 
         body{margin-top: 15px;
+          color: #343434;
         }
        
           .btn {
@@ -62,6 +63,11 @@ background-image: linear-gradient(315deg, #595959 0%, #6e6e6e 74%);
 .nav-item{
   margin : 2px;
 }
+.ul li a:hover{
+  color: white;
+  background-color: #9dc5c3;
+  background-image: linear-gradient(315deg, #595959 0%, #6e6e6e 74%);
+    }
 
         </style>
       </head>

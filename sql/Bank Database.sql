@@ -40,9 +40,9 @@ CREATE TABLE `transaction` (
 --
 
 INSERT INTO `transaction` (`sno`, `sender`, `receiver`, `balance`, `datetime`) VALUES
-(1, 'Padam Rai', 'Akash Rai', 480, '2021-02-13 18:07:13'),
-(2, 'Parkash Rai', 'Preet Rathi', 640, '2021-02-14 20:44:53'),
-(7, 'Parkash Rai', 'Rabia Ali', 455, '2021-02-15 07:34:22');
+(1, 'Jerry', 'Tom', 480, '2021-02-13 18:07:13'),
+(2, 'Parkash Rai', 'Bob', 640, '2021-02-14 20:44:53'),
+(7, 'Parkash Rai', 'Scooby', 455, '2021-02-15 07:34:22');
 
 -- --------------------------------------------------------
 
@@ -63,15 +63,15 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
 (1, 'Deep Rakesh', 'deep@gmail.com', 48955),
-(2, 'Akash Rai', 'akashrai@gmail.com', 35000),
-(3, 'Padam Rai', 'raipadam@gmail.com', 40691),
-(4, 'Preet Rathi', 'preetrathi@gmail.com', 48590),
-(5, 'Muskan Kumari', 'kumarimuskan@gmail.com', 40050),
-(6, 'Rabia Ali', 'rabiaali@gmail.com', 30555),
-(7, 'Pardeep Kumar', 'pardeep@gmail.com', 49877),
-(8, 'Junaid Ali', 'junaid@gmail.com', 36825),
-(9, 'Avinash Kumar', 'avinash@gmail.com', 30000),
-(10, 'Kelash Kumar', 'kelash@gmail.com', 50096);
+(2, 'Tom', 'tomascat@gmail.com', 35000),
+(3, 'Jerry', 'jerry@gmail.com', 40691),
+(4, 'Bob', 'bobthebuilder@gmail.com', 48590),
+(5, 'Nibbles', 'nibblesmouse@gmail.com', 40050),
+(6, 'Scooby', 'Scoobydoo@gmail.com', 30555),
+(7, 'Daphne', 'daphne@gmail.com', 49877),
+(8, 'Noddy', 'makewayfornoddy@gmail.com', 36825),
+(9, 'Ben Tennyson', 'ben10@gmail.com', 30000),
+(10, 'Oswald', 'oswald@gmail.com', 50096);
 
 --
 -- Indexes for dumped tables

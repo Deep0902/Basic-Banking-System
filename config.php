@@ -4,7 +4,7 @@
 $server="localhost";
 $username="root";
 $password="";
-$db="basic bank system Database";
+$db="Bank Database";
 
 //Remote database connection
 // $server="remotemysql.com";
