@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+  <link rel="icon" href="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/50/000000/external-bank-building-photo3ideastudio-flat-photo3ideastudio.png" type="image/x-icon">
     <meta charset="utf-8">
     <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">

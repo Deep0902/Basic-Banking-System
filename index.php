@@ -6,6 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <link rel="icon" href="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/50/000000/external-bank-building-photo3ideastudio-flat-photo3ideastudio.png" type="image/x-icon">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -103,9 +104,11 @@
     
     
     <footer class="text-center mt-5 py-2">
-        <p>&copy 2021. Made by <b> Deep Rakesh Tank</b> <br> For the Project of  <b>The Sparks Foundation</b> <br>Check out my project on <a href="https://github.com/Deep0902/" target="_blank">GitHub</a></p>
+        <p>&copy 2021. Made by <b> Deep Rakesh Tank</b> <br> For the Project of  <b>The Sparks Foundation</b> </html><br>Check out my project on <a href="https://github.com/Deep0902/" target="_blank">GitHub</a></p>
+
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 </body>
 
+</html>

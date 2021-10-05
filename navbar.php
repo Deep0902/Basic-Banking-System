@@ -2,6 +2,7 @@
       <!DOCTYPE html>
       <html>
       <head>
+      <link rel="icon" href="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/50/000000/external-bank-building-photo3ideastudio-flat-photo3ideastudio.png" type="image/x-icon">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
