@@ -36,6 +36,8 @@
         }
             img:hover {
             /* transform: scaleX(1.01); */
+            border: 2px solid #565656;
+            border-radius: 15px;
             opacity: 1;
             }
             img {
