@@ -202,7 +202,7 @@ li:hover{
 	
 			<div id="main">
 			
-				<h2 style="position:relative; left: 135px;  text-shadow: 3px 2px 5px pink; font-family: 'Montserrat', sans-serif;">Mr. Deep Rakesh Tank</h2>
+				<h2 style="position:relative; left: 170px;  text-shadow: 3px 2px 5px pink; font-family: 'Montserrat', sans-serif;">Mr. Deep Rakesh</h2>
 				<centre><img style="width:200px; height: 200px; border-radius:20px;border: 3px solid white ;position:relative; left:170px;box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
 				0 32px 64px -48px rgba(0,0,0,0.5); " src="img/profile.jpg"></centre>
 

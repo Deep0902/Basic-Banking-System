@@ -42,6 +42,17 @@
                 opacity: 0.7;
                 order-radius: 8px;
            }
+           h1{
+               transition: 0.3s;
+               color: #808080;
+           }
+           h1:hover{
+            transform: scale(1.01);
+            transition: 0.3s;
+            overflow: hidden;
+            color: #343434;
+                    
+           }
         
     </style>
 
@@ -57,8 +68,8 @@
         <!-- Introduction section -->
         <div class="intro py-1">
             <div >
-                <div >
-                   <center> <h1>Welcome to Basic Banking System</h1></center>
+                <div>
+                   <h1>Welcome to Basic Banking System</h1>
                 </div>
             </div>
             <div class="col-sm-12 col-md img text-center">
@@ -69,7 +80,7 @@
 
             <div class="col-md act">
                 <br><br>
-                <img src="img/view2.jpg" class="img-fluid">
+                <img src="img/view2.png" class="img-fluid">
                 <br><br>
                 <a href="transfermoney.php"><button>View all Users</button></a>
             </div>

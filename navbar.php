@@ -7,8 +7,9 @@
         <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
         <style type="text/css">
 
-        body{margin-top: 15px;
-          color: #343434;
+        body{
+          margin-top: 15px;
+          color: #f5f5f5;
         }
        
           .btn {
@@ -45,16 +46,19 @@
 
 .button:hover span {
   padding-right: 25px;
+  color:#f5f5f5;
 }
 
 .button:hover span:after {
   opacity: 1;
   right: 0;
+  color:#f5f5f5;
 }
                 }
             
             .df:hover {
-        color: white;
+        
+        color:#f5f5f5;
         font-size: 16px;
     background-color: #343434;
 background-image: linear-gradient(315deg, #595959 0%, #6e6e6e 74%);
@@ -65,9 +69,10 @@ background-image: linear-gradient(315deg, #595959 0%, #6e6e6e 74%);
 }
 .ul li a:hover{
   color: white;
-  background-color: #9dc5c3;
+  background-color: #343434;
   background-image: linear-gradient(315deg, #595959 0%, #6e6e6e 74%);
     }
+    
 
         </style>
       </head>
@@ -79,14 +84,14 @@ background-image: linear-gradient(315deg, #595959 0%, #6e6e6e 74%);
       <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="btn df" class="nav-link" href="index.php">Home</a>
+                <a class="btn df" class="nav-link" href="index.php" >Home</a>
               </li>
               
               <li class="nav-item">
                 <a class="btn df" class="nav-link" href="aboutme.php">About Me</a>
               </li>
               <li class="nav-item">
-                <a class="btn df" class="nav-link" href="contact.php">Contact Me</a>
+                <a class="btn df" class="nav-link" href="contact.php" >Contact Me</a>
               </li>
           </div>
        </nav>
