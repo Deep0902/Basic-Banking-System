@@ -222,7 +222,7 @@ li:hover{
 <div class="icon-bar">
   
   <a href="https://twitter.com/DeepRakesh0902" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-  <a href="https://www.instagram.com/deep_rakesh" class="instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+  <a href="https://github.com/Deep0902" class="instagram" target="_blank"><i class="fa fa-github"></i></a>
   <a href="https://www.linkedin.com/in/deeprakesh/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
 </div>
 	
