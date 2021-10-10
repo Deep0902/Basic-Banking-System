@@ -4,15 +4,11 @@
 <link rel="icon" href="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/50/000000/external-bank-building-photo3ideastudio-flat-photo3ideastudio.png" type="image/x-icon">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transfer Money</title>
+    <title>View Users</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/table.css">
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
-    
     <style type="text/css">
       button{
         border:none;
@@ -26,6 +22,7 @@
         font-family: 'Montserrat', sans-serif;
         background: #343434;
       }
+      
          
 
     </style>
@@ -43,7 +40,7 @@
 ?>
 
 <div class="container">
-        <h2 class="text-center pt-4" style="color: #f5f5f5;">Transfer Money</h2>
+        <h2 class="text-center pt-5 h2text" style="color: #f5f5f5;">User details</h2>
         <br>
             <div class="row">
                 <div class="col">
@@ -55,7 +52,7 @@
                             <th scope="col" class="text-center py-2">Name</th>
                             <th scope="col" class="text-center py-2">E-Mail</th>
                             <th scope="col" class="text-center py-2">Balance</th>
-                            <th scope="col" class="text-center py-2">Operation</th>
+                            
                             </tr>
                         </thead>
                         <tbody>
@@ -67,7 +64,7 @@
                         <td class="py-2"><?php echo $rows['name']?></td>
                         <td class="py-2"><?php echo $rows['email']?></td>
                         <td class="py-2"><?php echo $rows['balance']?></td>
-                        <td><a href="selecteduserdetail.php?id= <?php echo $rows['id'] ;?>"> <button type="button" class="btn">Transact</button></a></td> 
+                        
                     </tr>
                 <?php
                     }

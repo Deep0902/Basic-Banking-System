@@ -56,6 +56,12 @@
             color: #343434;
                     
            }
+           body{
+            font-family: 'Montserrat', sans-serif;
+           }
+           h1{
+               font-weight: 900px;
+           }
         
     </style>
 
@@ -85,7 +91,7 @@
                 <br><br>
                 <img src="img/view2.png" class="img-fluid">
                 <br><br>
-                <a href="transfermoney.php"><button>View all Users</button></a>
+                <a href="viewusers.php"><button>View all Users</button></a>
             </div>
             <div class="col-md act">
                 <br><br>
@@ -104,7 +110,7 @@
     
     
     <footer class="text-center mt-5 py-2">
-        <p>&copy 2021. Made by <b> Deep Rakesh Tank</b> <br> For the Project of  <b>The Sparks Foundation</b> </html><br>Check out my project on <a href="https://github.com/Deep0902/Basic-Banking-System.git" target="_blank">GitHub</a></p>
+        <p>&copy 2021. Made by <b> Deep Rakesh Tank</b> <br> For the Project of  <b>The Sparks Foundation</b> </html><br>Check out my project on <a href="https://github.com/Deep0902/" target="_blank">GitHub</a></p>
 
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

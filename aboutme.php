@@ -135,7 +135,7 @@ display:inline-block;
 			/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
 .icon-bar {
   position: relative;
-  top: 50px; left: 425px; width: 50px;
+  top: 40px; left: 430px; width: 50px;
   border-radius:100px;
   
 
@@ -162,8 +162,8 @@ li:hover{
   background-color: #000;
 }
 
-.instagram {
-  background: red;
+.github {
+  background: #343434;
   color: white;
 }
 
@@ -208,7 +208,7 @@ li:hover{
 				0 32px 64px -48px rgba(0,0,0,0.5); " src="img/profile.jpg"></centre>
 
 			    <p style= "position: relative; left:20px;" >
-				Pre-final year student at BMSIT, Bangalore.
+				Final year student at BMSIT, Bangalore.
 				 I am currently working as an intern for The Sparks Foundation.
 				<br>I am a Creative student with passion for learning new technologies, 
 				having strong interest in software design and development.
@@ -222,7 +222,7 @@ li:hover{
 <div class="icon-bar">
   
   <a href="https://twitter.com/DeepRakesh0902" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-  <a href="https://github.com/Deep0902" class="instagram" target="_blank"><i class="fa fa-github"></i></a>
+  <a href="https://github.com/Deep0902" class="github" target="_blank"><i class="fa fa-github"></i></a>
   <a href="https://www.linkedin.com/in/deeprakesh/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
 </div>
 	
