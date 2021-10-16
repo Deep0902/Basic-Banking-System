@@ -42,7 +42,7 @@ CREATE TABLE `transaction` (
 INSERT INTO `transaction` (`sno`, `sender`, `receiver`, `balance`, `datetime`) VALUES
 (1, 'Jerry', 'Tom', 480, '2021-02-13 18:07:13'),
 (2, 'Nibbles', 'Bob', 640, '2021-02-14 20:44:53'),
-(7, 'Nibbles', 'Scooby', 455, '2021-02-15 07:34:22');
+(3, 'Nibbles', 'Scooby', 455, '2021-02-15 07:34:22');
 
 -- --------------------------------------------------------
 
@@ -64,7 +64,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
 (1, 'Deep Rakesh', 'deep@gmail.com', 48955),
 (2, 'Tom', 'tomascat@gmail.com', 35000),
-(3, 'Jerry', 'jerry@gmail.com', 40691),
+(3, 'Jerry', 'jerrymouse@gmail.com', 40691),
 (4, 'Bob', 'bobthebuilder@gmail.com', 48590),
 (5, 'Nibbles', 'nibblesmouse@gmail.com', 40050),
 (6, 'Scooby', 'scoobydoo@gmail.com', 30555),
