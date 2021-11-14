@@ -40,7 +40,7 @@
 ?>
 
 <div class="container">
-        <h2 class="text-center pt-5 h2text" style="color: #f5f5f5;">User details</h2>
+        <h2 class="text-center pt-5 h2text" style="color: #f5f5f5;">User Details</h2>
         <br>
             <div class="row">
                 <div class="col">
