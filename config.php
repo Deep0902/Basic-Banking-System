@@ -8,9 +8,9 @@
 
 //Remote database connection
 $server="remotemysql.com";
-$username="doTaVHN16m";
-$password="Ct0Edzczf3";
-$db="doTaVHN16m";
+$username="fZSeld98gz";
+$password=" ubDqvVvLZs";
+$db="fZSeld98gz";
 
 $conn=mysqli_connect($server,$username,$password,$db);
 
