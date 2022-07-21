@@ -96,8 +96,6 @@ ALTER TABLE `users`
 --
 -- AUTO_INCREMENT for table `transaction`
 --
-ALTER TABLE `transaction`
-  MODIFY `sno` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `users`
